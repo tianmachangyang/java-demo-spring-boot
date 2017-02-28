@@ -1,5 +1,5 @@
 web:
-  image: registry.cn-beijing.aliyuncs.com/qinyujia-test/spring
+  image: registry.cn-beijing.aliyuncs.com/qinyujia-test/spring-boot-demo
   restart: alway
   labels:
     aliyun.probe.url: 'tcp://container:8080'
