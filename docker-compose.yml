@@ -1,6 +1,6 @@
 web:
   image: registry.cn-beijing.aliyuncs.com/qinyujia-test/spring-boot-demo
-  restart: always
+  restart: alway@@@$E
   labels:
     aliyun.probe.url: 'tcp://container:8080'
     aliyun.probe.initial_delay_seconds: '10'
