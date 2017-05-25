@@ -72,4 +72,12 @@
         </repository>
     </repositories>
 
+    <pluginRepositories>
+        <pluginRepository>
+            <id>central</id>
+            <name>Alibaba Plugin Repos Group</name>
+            <url>http://repo.alibaba-inc.com/nexus/content/groups/alirepositiry/</url>
+        </pluginRepository>
+    </pluginRepositories>
+
 </project>
