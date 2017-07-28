@@ -37,10 +37,7 @@
         <java.version>1.8</java.version>
     </properties>
 
-    <build>
-             <defaultGoal>
-               compile 
-              </defaultGoal>       
+    <build><defaultGoal>compile</defaultGoal>       
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
